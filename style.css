@@ -1,0 +1,51 @@
+#wrapper
+{
+	width:960px;
+	height:800px;
+	background:black;
+	margin:0 auto;
+	
+}
+#header
+{
+	width:100%;
+	height:15%;
+	background:DarkOliveGreen;
+	
+}
+#middle{
+	width:100%;
+	height:75%;
+	background:green;
+}
+#left
+{
+	width:20%;
+	height:100%;
+	background:darkcyan;
+	float:left;
+}
+#main
+{
+	width:60%;
+	height:100%;
+	background: lightSteelBlue;
+	float:left;
+}
+#right
+{
+	width:20%;
+	height:100%;
+	background:Grey;
+	float:right;	
+}
+#footer
+{
+	width:100%;
+	height:10%;
+	background:DarkSeaGreen;	
+}
+h1
+{
+	text-align: center;
+}
